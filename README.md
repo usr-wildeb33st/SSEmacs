@@ -1,4 +1,5 @@
-#Hello there this is a TUI markdown project created in rust by me
-#The goal of this is to make a fast, markdown and IDE that has a native file tree and code map,
-#could this just be a plugin, yes and it probably should be, but I want to make a full system instead 
-#and brush up on some coding skill
+Welcome to Stupid Simple Emacs, SSEmacs
+
+This is a framework for Emacs that will fully support
+users who like CLI and GUI interfaces with various custom plugins and popular plugins
+
